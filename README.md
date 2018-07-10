@@ -1,6 +1,6 @@
-# Zendesk Data Site
+# Zendesk Data App
 
-This is an that creates a front-end for Zendesk data that is similar to Zendesk insights
+This is an app that creates a front-end for Zendesk data that is similar to Zendesk insights
 
 ---
 
